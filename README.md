@@ -1,5 +1,7 @@
 # React + TypeScript + Vite
 
+[![Netlify Status](https://api.netlify.com/api/v1/badges/85da39de-b0ca-4445-9696-f41ce4081f63/deploy-status)](https://app.netlify.com/sites/car-wash-booking-system/deploys)
+
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
 Currently, two official plugins are available:
